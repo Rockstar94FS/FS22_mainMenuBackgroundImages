@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="74">
+	<author>Rockstar</author>
+
+	<version>1.0.0.1</version>
+
+	<title>MainMenuBackgroundImages</title>
+
+	<description>MainMenuBackgroundImages</description>
+
+	<isSelectable>false</isSelectable>
+
+	<preLoadSourceFiles>
+		<sourceFile filename="scripts/MainMenuBackgroundImages.lua"/>
+	</preLoadSourceFiles>
+</modDesc>
